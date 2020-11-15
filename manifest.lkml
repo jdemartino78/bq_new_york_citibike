@@ -14,6 +14,6 @@ visualization: {
 
 visualization: {
   id: "liquid_fill_gauge-marketplace"
-  url: "https://marketplace-api.looker.com/viz-dist/liquid_fill_gauge.js"
+  url: "https://looker-custom-viz-a.lookercdn.com/master/liquid_fill_gauge.js"
   label: "Liquid Fill Gauge"
 }
