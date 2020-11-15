@@ -11,3 +11,9 @@ visualization: {
   id: "treemap"
   label: "Tree Map"
 }
+
+visualization: {
+  id: "liquid_fill_gauge-marketplace"
+  url: "https://marketplace-api.looker.com/viz-dist/liquid_fill_gauge.js"
+  label: "Liquid Fill Gauge"
+}
