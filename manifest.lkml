@@ -17,3 +17,9 @@ visualization: {
   url: "https://looker-custom-viz-a.lookercdn.com/master/liquid_fill_gauge.js"
   label: "Liquid Fill Gauge"
 }
+
+visualization: {
+  id: "multiple_value"
+  url: "https://rawcdn.githack.com/looker/viz-multiple_value-marketplace/f7a135cc859bb7509caa5b7bb9f27f7d87fcf3db/multiple_value.js"
+  label: "Multiple Value"
+}
