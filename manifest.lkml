@@ -23,3 +23,9 @@ visualization: {
   url: "https://rawcdn.githack.com/looker/viz-multiple_value-marketplace/f7a135cc859bb7509caa5b7bb9f27f7d87fcf3db/multiple_value.js"
   label: "Multiple Value"
 }
+
+visualization: {
+  id: "multiple_value_2"
+  url: "https://github.com/looker/viz-multiple_value-marketplace/blob/master/multiple_value.js"
+  label: "Multiple Value_2"
+}
