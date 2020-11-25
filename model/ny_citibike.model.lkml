@@ -21,4 +21,9 @@ include: "/views/*.view.lkml"
 #   }
 # }
 
-explore: stations {}
+explore: stations {
+  join: trips {
+    type: cross
+    relationship: one_to_one
+    }
+  }

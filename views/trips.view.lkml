@@ -2,6 +2,7 @@ view: trips {
   sql_table_name: SELECT * FROM `bigquery-public-data.new_york_citibike.citibike_trips` ;;
 
   measure: count {
+    label: "Trip Count"
     type: count
     drill_fields: [detail*]
   }
