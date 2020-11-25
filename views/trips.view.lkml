@@ -1,5 +1,5 @@
 view: trips {
-  sql_table_name: SELECT * FROM `bigquery-public-data.new_york_citibike.citibike_trips` ;;
+  sql_table_name:  `bigquery-public-data.new_york_citibike.citibike_trips` ;;
 
   measure: count {
     label: "Trip Count"
